@@ -1,6 +1,6 @@
 hola mundo
 
 <?php
- echo "hola mundo";
+ echo "hola mundo ehhhhh";
  phpinfo();
 ?>
